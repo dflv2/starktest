@@ -6,7 +6,7 @@ from openzeppelin.security.pausable.library import Pausable
 from openzeppelin.token.erc20.library import ERC20
 
 (...)
-
+/// ttest comment
 @external
 func transfer{
         syscall_ptr : felt*,
